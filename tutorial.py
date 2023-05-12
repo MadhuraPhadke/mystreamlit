@@ -6,7 +6,7 @@ st.title('Onlei Technologies')
 st.header('By Abhinav Srivastava')
 st.text('This is a tutorial on Streamlit library')
 st.image('https://onleitechnologies.com/wp-content/uploads/2021/12/PinClipart.com_adult-learning-clipart_5373093.png')
-if(mymneu=='Home'):
+if(mymenu=='Home'):
     st.markdown('<center><h1>Welcome</h1></center>',unsafe_allow_html=True)
     st.video('https://youtu.be/EjY2gUFVwZE')
 elif(mymenu=='Fill Form'):
